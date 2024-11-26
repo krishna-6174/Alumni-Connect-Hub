@@ -1,0 +1,22 @@
+.nav-link.active {
+  color: #1e90ff;
+  font-weight: bold;
+}
+
+.dropdown-menu {
+  background-color: #333;
+}
+
+.dropdown-menu a {
+  padding: 0.5rem 1rem;
+  display: block;
+  color: white;
+}
+
+.dropdown-menu a:hover {
+  background-color: #555;
+}
+
+.flex.active {
+  color: #1e90ff;
+}

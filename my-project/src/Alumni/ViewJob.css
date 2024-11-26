@@ -1,0 +1,51 @@
+/* Custom Quill Editor Styles */
+
+/* Override editor container styles */
+.ql-container {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    background-color: #f9f9f9;
+  }
+  
+  /* Override editor text styles */
+  .ql-editor {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+  }
+  
+  /* Custom toolbar styles */
+  .ql-toolbar {
+    background-color: #eee;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  /* Custom list styles */
+  .ql-list {
+    margin-left: 2em;
+  }
+  
+  .ql-list.bullet {
+    list-style-type: disc;
+  }
+  
+  .ql-list.ordered {
+    list-style-type: decimal;
+  }
+  
+  /* Custom blockquote styles */
+  .ql-blockquote {
+    border-left: 4px solid #ccc;
+    padding-left: 1em;
+    color: #555;
+  }
+  
+  /* Custom link styles */
+  .ql-link {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .ql-link:hover {
+    text-decoration: underline;
+  }
+  
